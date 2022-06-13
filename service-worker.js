@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/postcodesearch/precache-manifest.076ba6dcbb3316ce67d2117af4a3ef66.js"
+  "/postcodesearch/precache-manifest.a96c2b903d2ae8419f2be12da61820e3.js"
 );
 
 workbox.clientsClaim();

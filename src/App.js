@@ -12,7 +12,7 @@ function App() {
     <Provider store={store}>
       <div className="App">
       <Banner />
-      <BrowserRouter>
+      <BrowserRouter basename="/postcodesearch/">
         <PublicRoutes/>
       </BrowserRouter>
     </div>

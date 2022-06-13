@@ -29,6 +29,12 @@
     color: grey
 }
 
+.postcode-location{
+    width: 100%;
+    background-color: rgba(0,0,0,.05);
+    text-align: center;
+}
+
 .postcode-container {
     width: 100%;    
     /*border: 1px #000 solid;*/

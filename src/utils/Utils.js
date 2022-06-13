@@ -30,3 +30,9 @@ export const getBox =(lat, long) => {
       long: 1000 / longLength
     };
   }
+
+  export const getLocation = {
+    South: "South",
+    Midlands: "Midlands",
+    North: "North",
+  };

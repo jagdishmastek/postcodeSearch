@@ -10,6 +10,7 @@ import CheckRequests from "./HOC/CheckRequests";
 
 const PublicRoutes = () => (
     <Routes>
+          <Route strict exact path='/postcodesearch'element={<PostcodesPage/>}/>
           <Route strict exact path="/" element={<PostcodesPage/>}/>  
           <Route strict exact path="/error-page" element={<ErrorPage/>}/> 
           <Route path="*" element={<PageNotFoundPage/>}/> 

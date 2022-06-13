@@ -35,7 +35,7 @@ export default function ErrorPage() {
                 </div>
                 </div>
                 <div className="pagecontent-footer">
-                    <Link to="/">Go Back</Link>
+                    <Link to="/postcodesearch/">Go Back</Link>
                 </div>
             </div>
             
